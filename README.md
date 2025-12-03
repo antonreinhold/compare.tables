@@ -3,7 +3,7 @@
 **Function to compare two tables in R**  
 **Version:** 0.2  
 **Author:** Anton Reinhold  
-**Date:** 2025-12-01
+**Date:** 2025-12-01  
 **Verify:** SHA256SUM 32ad5c402e9f11e05fc508d792380967e6d012e4c873e0b56a56b07b28d7858b
 
 ---
@@ -13,8 +13,8 @@ This package is designed for situations where **two researchers have independent
 **Important:** Both tables must have a common ID column. The comparison is done by merging the tables on this ID. You can load this package and use the `compare_tables()` function to identify any discrepancies between the two tables.
 
 **Installation:** 
-`install.packages("devtools")`
-`devtools::install_github("antonreinhold/compare.tables")`
+`install.packages("devtools")`  
+`devtools::install_github("antonreinhold/compare.tables")`  
 
 ## How it works
 
