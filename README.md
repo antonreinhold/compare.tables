@@ -12,6 +12,10 @@ This package is designed for situations where **two researchers have independent
 
 **Important:** Both tables must have a common ID column. The comparison is done by merging the tables on this ID. You can load this package and use the `compare_tables()` function to identify any discrepancies between the two tables.
 
+**Installation:** 
+`install.packages("devtools")`
+`devtools::install_github("antonreinhold/compare.tables")`
+
 ## How it works
 
 - `-99` indicates **values that do not match**.  
