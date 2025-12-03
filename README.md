@@ -3,7 +3,8 @@
 **Function to compare two tables in R**  
 **Version:** 0.2  
 **Author:** Anton Reinhold  
-**Date:** 2025-12-01  
+**Date:** 2025-12-01
+**Verify:** SHA256SUM 32ad5c402e9f11e05fc508d792380967e6d012e4c873e0b56a56b07b28d7858b
 
 ---
 
